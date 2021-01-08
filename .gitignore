@@ -1,3 +1,7 @@
+thesis.docx
+.DS_Store
+thesis.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
